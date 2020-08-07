@@ -1,0 +1,6 @@
+interface 和 type 的区别
+
+常规题，网上资料很多了，还是看官网的说明比较好
+
+An interface can be named in an extends or implements clause, but a type alias for an object type literal cannot.
+An interface can have multiple merged declarations, but a type alias for an object type literal cannot.
